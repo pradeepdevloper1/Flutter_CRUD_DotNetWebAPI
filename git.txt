@@ -1,0 +1,8 @@
+echo "# Flutter_CRUD_DotNetWebAPI" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin33 https://github.com/pradeepdevloper1/Flutter_CRUD_DotNetWebAPI.git
+git push -u origin33 main
+                
